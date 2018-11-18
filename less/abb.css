@@ -1,0 +1,21 @@
+.lmm_abb {
+  width: 100%;
+}
+.lmm_abb ul {
+  width: 100%;
+}
+.lmm_abb ul li {
+  float: left;
+}
+.lmm_abb ul li:first-child {
+  width: 50%;
+}
+.lmm_abb ul li:first-child img {
+  width: 19rem;
+}
+.lmm_abb ul li:last-child {
+  width: 50%;
+}
+.lmm_abb ul li:last-child div img {
+  width: 18rem;
+}

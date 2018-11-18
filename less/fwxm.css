@@ -1,0 +1,45 @@
+.fwxm {
+  background: #f1f1f1;
+  width: 100%;
+}
+.fwxm .xz {
+  width: 100%;
+}
+.fwxm .xz ul {
+  width: 100%;
+}
+.fwxm .xz ul li {
+  width: 50%;
+  text-align: center;
+  height: 2.2rem;
+  line-height: 2.2rem;
+  float: left;
+}
+.fwxm .xz ul li a {
+  display: inline-block;
+  font-size: 0.7rem;
+}
+.fwxm .xz ul li a:hover {
+  color: #d3079e;
+  border-bottom: 0.1rem solid #d3079e;
+}
+.fwxm .lyl {
+  width: 100%;
+}
+.fwxm .lyl .tp {
+  width: 100%;
+}
+.fwxm .lyl .tp img {
+  width: 100%;
+}
+.ckgd {
+  height: 1.5rem;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  padding: 1rem 0;
+}
+.ckgd a {
+  text-decoration: none;
+  font-size: 0.3rem;
+}

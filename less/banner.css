@@ -1,0 +1,36 @@
+.lmm_banner {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.lmm_banner ul:first-child {
+  width: 900%;
+  transform: translateX(-11.11%);
+  -webkit-transform: translateX(-11.11%);
+}
+.lmm_banner ul:first-child li {
+  float: left;
+  width: 11.11%;
+}
+.lmm_banner ul:first-child li a {
+  display: block;
+  width: 100%;
+}
+.lmm_banner ul:first-child li a img {
+  display: block;
+  width: 100%;
+}
+.lmm_banner ul:last-child {
+  position: absolute;
+  left: 11.5rem;
+  bottom: 1rem;
+}
+.lmm_banner ul:last-child li {
+  width: 0.8rem;
+  height: 0.8rem;
+  background: #dcd4da;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  float: left;
+  margin-right: 1rem;
+}

@@ -1,0 +1,40 @@
+@import "variables";
+.lmm_banner {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  ul{
+    &:first-child{
+      width: 900%;
+      transform: translateX(-11.11%);
+      -webkit-transform: translateX(-11.11%);
+      li {
+        float: left;
+        width: 11.11%;
+        a {
+          display: block;
+          width: 100%;
+          img {
+            display: block;
+            width: 100%;
+          }
+        }
+      }
+    }
+    &:last-child{
+      position: absolute;
+      left: 115rem/@bs;
+      bottom: 10rem/@bs;
+      li {
+        width: 8rem/@bs;
+        height: 8rem/@bs;
+        background: #dcd4da;
+        border: 1px solid #fff;
+        border-radius: 50%;
+        float: left;
+        margin-right: 10rem/@bs;
+      }
+    }
+
+  }
+}

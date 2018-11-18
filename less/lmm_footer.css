@@ -1,0 +1,19 @@
+.lmm_footer {
+  width: 100%;
+  height: 1.5rem;
+  background: #d3079e;
+  position: relative;
+}
+.lmm_footer .zuo ul li {
+  float: left;
+}
+.lmm_footer .zuo ul li .right {
+  float: right;
+}
+.lmm_footer .zuo ul li a {
+  text-decoration: none;
+}
+.lmm_footer .you {
+  position: absolute;
+  right: 0;
+}

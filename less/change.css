@@ -1,0 +1,21 @@
+.lmm_change {
+  width: 100%;
+  padding: 0.3rem 0.2rem;
+  background: #f7f7f7;
+}
+.lmm_change ul {
+  width: 100%;
+  overflow: hidden;
+}
+.lmm_change ul li {
+  width: 33.33%;
+  float: left;
+}
+.lmm_change ul li a {
+  display: block;
+  width: 100%;
+}
+.lmm_change ul li a img {
+  width: 11.3rem;
+  margin-right: 0.5rem;
+}

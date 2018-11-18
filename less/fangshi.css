@@ -1,0 +1,29 @@
+.lmm_fangshi {
+  width: 100%;
+  background: #f7f7f7;
+}
+.lmm_fangshi ul {
+  width: 100%;
+}
+.lmm_fangshi ul .wuzuo {
+  border-left: none;
+}
+.lmm_fangshi ul .wuyou {
+  border-right: none;
+}
+.lmm_fangshi ul li {
+  width: 25%;
+  float: left;
+  border: 1px solid #d1d1d1;
+  border-collapse: collapse;
+  margin: 0px 0px -1px -1px;
+  text-align: center;
+}
+.lmm_fangshi ul li a {
+  display: block;
+  text-align: center;
+}
+.lmm_fangshi ul li a img {
+  display: inline-block;
+  width: 5rem;
+}
